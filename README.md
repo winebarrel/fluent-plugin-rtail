@@ -2,6 +2,9 @@
 
 Fluentd output plugin for [rtail](http://rtail.org/).
 
+[![Gem Version](https://badge.fury.io/rb/fluent-plugin-rtail.svg)](https://badge.fury.io/rb/fluent-plugin-rtail)
+[![Build Status](https://travis-ci.org/winebarrel/fluent-plugin-rtail.svg?branch=master)](https://travis-ci.org/winebarrel/fluent-plugin-rtail)
+
 ## Installation
 
 Add this line to your application's Gemfile:

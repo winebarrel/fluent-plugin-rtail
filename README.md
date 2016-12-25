@@ -33,5 +33,6 @@ Or install it yourself as:
   #content_key content
   #use_tag_as_id false
   #use_record_as_content false
+  flush_interval 0s
 </match>
 ```

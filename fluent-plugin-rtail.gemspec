@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Genki Sugawara']
   spec.email         = ['sugawara@cookpad.com']
 
-  spec.summary       = %q{Fluentd output plugin for rTail.}
-  spec.description   = %q{Fluentd output plugin for rTail.}
+  spec.summary       = %q{Fluentd output plugin for rtail.}
+  spec.description   = %q{Fluentd output plugin for rtail.}
   spec.homepage      = 'https://github.com/winebarrel/fluent-plugin-rtail'
   spec.license       = 'MIT'
 

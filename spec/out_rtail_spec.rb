@@ -128,7 +128,6 @@ describe Fluent::RtailOutput do
     end
   end
 
-
   context 'when use record as content' do
     let(:fluentd_conf) do
       <<-EOS
